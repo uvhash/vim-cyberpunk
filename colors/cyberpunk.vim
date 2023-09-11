@@ -32,7 +32,7 @@ call HighlightFor("IncSearch",  "NONE", "#283593", "NONE")
 call HighlightFor("Search",     "NONE", "#283593", "NONE")
 call HighlightFor("Substitute", "NONE", "#283593", "NONE")
 
-call HighlightFor("MatchParen", "#FF0055", "#00FFC8", "NONE")
+call HighlightFor("MatchParen", "#000000", "#FF0055", "NONE")
 call HighlightFor("NonText",    "#2B3E5A", "NONE", "NONE")
 call HighlightFor("Whitespace", "#2B3E5A", "NONE", "NONE")
 
@@ -110,4 +110,8 @@ call HighlightFor("TabLineSel",  "#FF4081", "NONE", "bold")
 " Folds {{{
 call HighlightFor("Folded",     "#00FFC8", "NONE", "italic")
 call HighlightFor("FoldColumn", "#00FFC8", "NONE", "NONE")
+" }}}
+
+" Conceal {{{
+call HighlightFor("Conceal",      "#fffc58", "NONE", "italic")
 " }}}
