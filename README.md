@@ -2,7 +2,7 @@
 
 ## Installation
 
-You can install cyberpunk via plug adding to your `.vimrc` or `init.vim`:
+you can install cyberpunk via plug adding to your `.vimrc` or `init.vim`:
 
 ```
 Plug 'thedenisnikulin/vim-cyberpunk'
