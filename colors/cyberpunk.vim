@@ -86,7 +86,7 @@ call HighlightFor("Todo",       "#00FF9C", "#372963", "italic")
 call HighlightFor("Error",      "#ff3270", "NONE",   "undercurl")
 call HighlightFor("WarningMsg", "#009550", "NONE",   "NONE")
 call HighlightFor("Special",    "#00FF9C", "NONE",   "italic")
-call HighlightFor("Tag",        "#00FF9C", "NONE",    "undercurl")
+call HighlightFor("Tag",        "#00FF9C", "NONE",    "NONE")
 " }}}
 
 " Pmenu {{{
